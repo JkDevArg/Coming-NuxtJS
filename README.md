@@ -61,3 +61,6 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+Preview project on: [https://64a3a5b9a3ef6d155d7df238--cheerful-yeot-3b0012.netlify.app/](https://64a3a5b9a3ef6d155d7df238--cheerful-yeot-3b0012.netlify.app/)
